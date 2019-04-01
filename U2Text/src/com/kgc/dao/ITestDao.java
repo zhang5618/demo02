@@ -1,5 +1,5 @@
 package com.kgc.dao;
-
+//测试更新
 import com.kgc.pojo.Invitation;
 import com.kgc.pojo.Reply;
 import com.kgc.utils.PageBean;
